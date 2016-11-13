@@ -27,13 +27,15 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
+  - title: CV
     url: https://drive.google.com/file/d/0B2jIT4ExtjujaXRfQVEwOHZPb1U/view
     external: true
-  - title: Publications
+  - title: Research
     url: /publications/
-  - title: Code
+  - title: Project
     url: /code/
+  - title: Academics
+    url: /academics/
   - title: Blog
     url: /blog/
 
