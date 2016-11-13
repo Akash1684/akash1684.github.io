@@ -1,43 +1,44 @@
 ---
 layout: page
-permalink: /code/
-title: Some Code I've Written
-tags: [code]
-modified: 3-10-2014
+permalink: /projects/
+title: Major Projects
+tags: [project,code,work experience]
+modified: 13-11-16
 comments: false
 ---
 
+Following are my research projects that I have done during summer internships and some additional projects that are carried out as course or hobbie project during semesters.  
 
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
+### Key Research Projects
 
-### Research
+* **Deadlock-free synchronization for GPU architecture** | Research Intern | June 2016, Present :
+  <br>
+  [*GPU Centre of Excellence(GCOE), IIT Bombay, India*](http://gcoe-iitb.in/)
+  <br>
+  Presently, working towards development of a deadlock-free algorithm to synchronize threads for GPGPU applications on CUDA framework.     Proposed algorithm is inspired by Banker’s algorithm for resource allocation in CPU and is being tested on Delaunay Mesh Refinement     Benchmark.
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+* [**A MHP Analysis Framework for SPMD Model**](https://drive.google.com/open?id=0B2jIT4Extjujc2F3bmNTSHh1NGs) | Summer Intern | May 2016, June 2016 :
+  <br>
+  *Advisor : [Prof. R.K Shyamasundar (IIT Bombay, India)](https://scholar.google.co.in/citations?user=Q1hcun8AAAAJ&hl=en)*
+  <br>
+  Developed a framework for May-Happen-In-Parallel Analysis for Single Program Multiple Data (SPMD) Model using Async and Finish           constructs. Framework takes X10 Program and two Statements as input and return Condition Vectors Set (CS) that defines whether the       statements can execute in parallel or not.
 
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
+* [**A novel PSO algorithm for DWT-SVD Watermarking**](https://drive.google.com/file/d/0B2jIT4ExtjujUFVRS0pJVW1rbHM/view?usp=sharing) | Summer Intern | May 2015, June 2015
+  <br>
+  *Advisor : [Prof. K.K Mishra (MNNIT Allahabad, India)](http://www.mnnit.ac.in/old/index.php/departments/engineering/computer-science-and-engineering/faculty-profile/250-krishn-k-mishra-csed.html)*
+  <br>
+  In this project a novel particle swarm optimizer (PSO) variant is proposed and is compared with 5 well known PSO variants using CEC’13   benchmark function. Existing watermarking scheme for RGB image based on singular value decomposition (SVD) in DWT (Discrete wavelet     transformation) is further optimized using proposed PSO variant. Result: Reduction upto 33% in FES (Function Evaluations) for some       basic multimodal functions and 22% increase in fitness of the watermarking scheme compared to the conventional scheme.
 
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+### Course and Side Projects
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
- 
-### Didactical
+* AKA-shell : <br> A naive implementation of LINUX shell in C. It demonstrates how a shell works i.e. read, parse, fork, exec and wait. Built-in commands includes cd, help, exit, hist. Project was done as part of Operating System course, under Prof. J.P. Singh, NIT Patna.
 
-* [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
-Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
+* Timex- A chrome extension : <br> It keeps track of surfing time, when extension is accessed time spent along with random quote is displayed. Project was done as part of Web Technology course, under Prof. Kumar Abhishek, NIT Patna.
 
-* [**Web Scraping**](http://jponttuset.github.io/deep-learning-scraping/)<br>
-Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
+* Tweete (Twitter Handler) : <br> Tweete is a desktop application designed in JAVA that provides interface to interact with Twitter account using Twitter4j API. Presently, Tweete have three features: Update Status, Send Direct Messages and Retrieve Previous Tweets.
 
-### Web
+* pyBuzz : <br> A python script that sends weather forecast summary along with word of the day to mobile phone on system startup. Dependencies includes BeautifulSoup, Twilio, Urllib and Forecastio.
 
-* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
-Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
+* Shut-it-Down : <br> A desktop application that automates the scheduling of system shutdown (Windows Users). Designed using JAVA Swing and implemented using System Calls.
 
-* [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
-Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
-
-
+* File Encryption and Decryption using cipher class : <br> A console based Encryption and Decryption application developed in JAVA. This project was done during Summer Training at Hewlett-Packard (HP) nodal center, India, 2014.
