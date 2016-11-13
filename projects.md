@@ -11,9 +11,9 @@ Following are my research projects that I have done during summer internships an
 
 ### Key Research Projects
 
-* [**Deadlock-free synchronization for GPU architecture**](https://akash1684.github.io//projects/) | Research Intern | June 2016, Present :
+* [**Deadlock-free synchronization for GPU architecture**](https://akash1684.github.io//projects/) | Research Intern :
   <br>
-  [*GPU Centre of Excellence(GCOE), IIT Bombay, India*](http://gcoe-iitb.in/)
+  [*GPU Centre of Excellence(GCOE), IIT Bombay, India*](http://gcoe-iitb.in/) | June 2016, Present 
   <br>
   Presently, working towards development of a deadlock-free algorithm to synchronize threads for GPGPU applications on CUDA framework.     Proposed algorithm is inspired by Banker’s algorithm for resource allocation in CPU and is being tested on Delaunay Mesh Refinement     Benchmark.
 
