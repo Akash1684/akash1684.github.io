@@ -1,10 +1,10 @@
-title:            Akash Srivastava's site
-description:      Welcome to my site.
+title:            Akash Srivastava
+description:      Passionate and Determined Coder. Welcome to my homepage!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://akash1684.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: akashsrivastava
+#disqus_shortname: akashsrivastava
 
 # Owner/author information
 owner:
