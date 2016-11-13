@@ -28,7 +28,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Curriculum
-    url: /cv/
+    url: https://drive.google.com/file/d/0B2jIT4ExtjujaXRfQVEwOHZPb1U/view
   - title: Publications
     url: /publications/
   - title: Code
