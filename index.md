@@ -1,17 +1,14 @@
 ---
-layout: home2
+layout: home
 title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+description: "Akash Srivastava's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: mountain.jpg
 ---
 
-I'm a post-doctoral researcher in [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1)'s [ETHZ vision group](http://www.vision.ee.ethz.ch/index.en.html).
+Hi, I am a fourth year undergraduate in the Department of Information Technology at the <a href="http://nitp.ac.in/php/home.php" target="_blank">National Institute of Technology, Patna (NIT Patna) and will be joining Amazon Development Center India for Spring 17' as an Intern. 
+<br />
+I have a special liking towards open source development and related activity, as it promises to provide the opportunity to learn something new, and to contribute to my fullest capability.This is an attempt to portray myself in a very concise way. You are welcome through the links to know about me and my interests. My detailed resume can be found <a href="https://drive.google.com/file/d/0B2jIT4ExtjujaXRfQVEwOHZPb1U/view?usp=sharing" target="_blank">here.
 
 <br />
-Previously, I did an 8-month internship at <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research, Zürich</a>, under the supervision of <a href="http://zurich.disneyresearch.com/~smolica/" target="_blank">Prof. Aljoscha Smolic</a>, I visited <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. Jitendra Malik</a>'s vision group in <a href="http://www.berkeley.edu" target="_blank">UC Berkeley</a>, and I collaborated with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
-
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a> under the supervision of <a href="https://imatge.upc.edu/web/ferran" target="_blank">Prof. Ferran Marques</a>.
-
