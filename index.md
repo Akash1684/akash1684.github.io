@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home2
 title: Me in a Nutshell
 description: "Akash Srivastava's website"
 tags: [Jekyll, theme, responsive, blog, template]
