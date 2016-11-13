@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Akash Srivastava's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: code.jpg
+  feature: mountain.jpg
 ---
 
 Hi, I am a fourth year undergraduate in the Department of Information Technology at the <a href="http://nitp.ac.in/php/home.php" target="_blank">National Institute of Technology, Patna (NIT Patna)</a> and will be joining Amazon Development Center India for Spring 17' as an Intern. 
