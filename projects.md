@@ -11,21 +11,21 @@ Following are my research projects that I have done during summer internships an
 
 ### Key Research Projects
 
-* [**Deadlock-free synchronization for GPU architecture**](https://akash1684.github.io//projects/) | Research Intern :
+* [**Deadlock-free synchronization for GPU architecture**](https://akash1684.github.io//projects/) | June 2016, Present :
   <br>
-  [*GPU Centre of Excellence(GCOE), IIT Bombay, India*](http://gcoe-iitb.in/) | June 2016, Present 
+  [*GPU Centre of Excellence(GCOE), IIT Bombay, India*](http://gcoe-iitb.in/) | Research Intern
   <br>
   Presently, working towards development of a deadlock-free algorithm to synchronize threads for GPGPU applications on CUDA framework.     Proposed algorithm is inspired by Banker’s algorithm for resource allocation in CPU and is being tested on Delaunay Mesh Refinement     Benchmark.
 
-* [**A MHP Analysis Framework for SPMD Model**](https://drive.google.com/open?id=0B2jIT4Extjujc2F3bmNTSHh1NGs) | Summer Intern | May 2016, June 2016 :
+* [**A MHP Analysis Framework for SPMD Model**](https://drive.google.com/open?id=0B2jIT4Extjujc2F3bmNTSHh1NGs) | May 2016, June 2016 :
   <br>
-  [*Advisor : Prof. R.K Shyamasundar (IIT Bombay, India)*](https://scholar.google.co.in/citations?user=Q1hcun8AAAAJ&hl=en)
+  [*Advisor : Prof. R.K Shyamasundar (IIT Bombay, India)*](https://scholar.google.co.in/citations?user=Q1hcun8AAAAJ&hl=en) | Summer Intern 
   <br>
   Developed a framework for May-Happen-In-Parallel Analysis for Single Program Multiple Data (SPMD) Model using Async and Finish           constructs. Framework takes X10 Program and two Statements as input and return Condition Vectors Set (CS) that defines whether the       statements can execute in parallel or not.
 
-* [**A novel PSO algorithm for DWT-SVD Watermarking**](https://drive.google.com/file/d/0B2jIT4ExtjujUFVRS0pJVW1rbHM/view?usp=sharing) | Summer Intern | May 2015, June 2015
+* [**A novel PSO algorithm for DWT-SVD Watermarking**](https://drive.google.com/file/d/0B2jIT4ExtjujUFVRS0pJVW1rbHM/view?usp=sharing) | May 2015, June 2015
   <br>
-  [*Advisor : Prof. K.K Mishra (MNNIT Allahabad, India)*](http://www.mnnit.ac.in/old/index.php/departments/engineering/computer-science-and-engineering/faculty-profile/250-krishn-k-mishra-csed.html)
+  [*Advisor : Prof. K.K Mishra (MNNIT Allahabad, India)*](http://www.mnnit.ac.in/old/index.php/departments/engineering/computer-science-and-engineering/faculty-profile/250-krishn-k-mishra-csed.html) | Summer Intern 
   <br>
   In this project a novel particle swarm optimizer (PSO) variant is proposed and is compared with 5 well known PSO variants using CEC’13   benchmark function. Existing watermarking scheme for RGB image based on singular value decomposition (SVD) in DWT (Discrete wavelet     transformation) is further optimized using proposed PSO variant. Result: Reduction upto 33% in FES (Function Evaluations) for some       basic multimodal functions and 22% increase in fitness of the watermarking scheme compared to the conventional scheme.
 
