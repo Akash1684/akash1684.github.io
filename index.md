@@ -11,4 +11,4 @@ Hi, I am a fourth year undergraduate in the Department of Information Technology
 
 <br/>
 
-I have a special liking towards open source development and related activity, as it promises to provide the opportunity to learn something new, and to contribute to my fullest capability.This is an attempt to portray myself in a very concise way. You are welcome through the links to know about me and my interests. My detailed resume can be found <a href="https://drive.google.com/file/d/0B2jIT4ExtjujaXRfQVEwOHZPb1U/view?usp=sharing" target="_blank">here</a>.
+I have a special liking towards open source development and related activity, as it promises to provide the opportunity to learn something new, and to contribute to my fullest capability.This is an attempt to portray myself in a very concise way. You are welcome through the links to know about me and my interests. My detailed resume can be found <a href="https://github.com/Akash1684/akash1684.github.io/blob/master/assets/akash_cv.pdf" target="_blank">here</a>.
