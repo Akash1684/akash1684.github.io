@@ -28,8 +28,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: CV
-    url: https://drive.google.com/file/d/0B2jIT4ExtjujaXRfQVEwOHZPb1U/view
-    external: true
+    url: /akash_cv.pdf
   - title: Research
     url: /research/
   - title: Projects
