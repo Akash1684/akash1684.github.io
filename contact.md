@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: Contact Information
+title: Get In Touch
 tags: [akash's address,akash's phone]
 modified: 14-11-16
 comments: false
