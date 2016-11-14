@@ -4,7 +4,7 @@ description:      Passionate and Determined Coder. Welcome to my homepage!
 url:              https://akash1684.github.io/
 #http://localhost:5000
 #https://jponttuset.github.io
-#disqus_shortname: akashsrivastava
+disqus_shortname: akash1684
 
 # Owner/author information
 owner:
@@ -33,8 +33,6 @@ links:
     url: /research/
   - title: Projects
     url: /projects/
-  - title: Academics
-    url: /academics/
   - title: Blog
     url: /blog/
   - title: Contact
