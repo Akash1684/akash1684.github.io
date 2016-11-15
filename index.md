@@ -13,3 +13,7 @@ A senior undergraduate in the Department of Information Technology at the <a hre
 
 I have a special liking towards open source development and related activity, as it promises to provide the opportunity to learn something new, and to contribute to my fullest capability.This is an attempt to portray myself in a very concise way. You are welcome through the links to know about me and my interests. 
 <!---My detailed resume can be found <a href="https://github.com/Akash1684/akash1684.github.io/raw/master/assets/akash_cv.pdf" target="_blank">here</a>.-->
+
+<center>
+![sig](/assets/signature.jpg)
+</center>
