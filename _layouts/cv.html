@@ -44,6 +44,9 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  
+  {{ content }} <!--github content-->
+  
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
@@ -69,8 +72,7 @@
     <p align="center" class="bottom-three">&#8226 I <a href="http://goo.gl/XbK9qN" target="_blank">build</a> <a href="https://goo.gl/mVYQc1" target="_blank">awesome</a> <a href="http://goo.gl/znGIVM" target="_blank">websites</a> using <strong>Javascript</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>D3.js</strong>.</p>
 
     
-    
-    {{ content }}
+   
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
