@@ -19,6 +19,8 @@ comments: false
 * **Work**: +91-9454028991
 
 ### Mail Address:
-* **Permanent**: 13/1, Alkapuri, Hastings Road, Allahabad, Uttar Pradesh, India. 211001
-* **Temporary**: #122, Sone-A, National Institute of Technology Patna, Bihar, India. 800006
+* **Current**: <br/>
+#122, Sone-A, <br/>
+National Institute of Technology Patna, <br/>
+Bihar, India - 800006.
 
