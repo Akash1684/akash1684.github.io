@@ -10,7 +10,7 @@ disqus_shortname: akash1684-github-io
 owner:
   name:           Akash Srivastava
   avatar:         akash.png
-  bio:            I'm from a small town in Uttar Pradesh, India. Currently in Bihar, India . Passionate about parallel computing, competitive programming, and football(Barça Fan).
+  bio:            I hail from a small town in Uttar Pradesh, India. Passionate about parallel computing, competitive programming, and football(Barça Fan).
   email:          akash.s1684@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: akash1684
@@ -37,7 +37,7 @@ links:
     url: /contact/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Asia/Kolkata
 future:      true
 #pygments:    true
 highlighter: rouge
