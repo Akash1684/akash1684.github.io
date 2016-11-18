@@ -9,7 +9,10 @@ comments: false
 
 Following are my research projects that I have done during summer internships and some additional projects that are carried out as course or hobbie project during semesters.  
 
-### Key Research Projects
+<!--### Key Research Projects-->
+
+<p align="center" ><img src="/images/CV/world.png" alt="Key Research Projects" width="60" height="60"></p>
+<h2 align="center" class=bottom-small>Key Research Projects</h2>
 
 * [**Deadlock-free synchronization for GPU architecture**](https://drive.google.com/open?id=0B2jIT4ExtjujbUYxcnFHQWFCMjQ){:target="_blank"} | June 2016, Present :
   <br>
@@ -29,13 +32,20 @@ Following are my research projects that I have done during summer internships an
   <br><br/>
   In this project comparative study of 5 well known variants of Particle Swarm Optimizers is done using CEC’13 benchmark function. Existing watermarking scheme for RGB image based on singular value decomposition (SVD) in DWT (Discrete wavelet transformation) is further optimized using PSO variants. Result: *22%* increase in fitness of the watermarking scheme compared to the conventional scheme.
 
-### Course and Side Projects
+<!--### Course and Side Projects-->
+
+<p align="center" ><img src="/images/CV/study.png" alt="Major Course Projects" width="60" height="60"></p>
+<h2 align="center" class=bottom-small>Major Course Projects</h2>
 
 * [**AKA-shell**](https://github.com/Akash1684/AKA-shell){:target="_blank"} : <br> A naive implementation of LINUX shell in C. It demonstrates how a shell works i.e. read, parse, fork, exec and wait. Built-in commands includes cd, help, exit, hist. Project was done as part of Operating System course, under Prof. J.P. Singh, NIT Patna.
 
 * [**Timex- A chrome extension**](https://github.com/Akash1684/Timex){:target="_blank"} : <br> It keeps track of surfing time, when extension is accessed time spent along with random quote is displayed. Project was done as part of Web Technology course, under Prof. Kumar Abhishek, NIT Patna.
 
-* [**Tweete (Twitter Handler)**](https://github.com/Akash1684/Tweete){:target="_blank"} : <br> Tweete is a desktop application designed in JAVA that provides interface to interact with Twitter account using Twitter4j API. Presently, Tweete have three features: Update Status, Send Direct Messages and Retrieve Previous Tweets.
+<p align="center" ><img src="/images/CV/settings.png" alt="Major Course Projects" width="60" height="60"></p>
+<h2 align="center" class=bottom-small>Side Projects</h2>
+
+
+* [**Tweete (Twitter Handler)**](https://github.com/Akash1684/Tweete){:target="_blank"} : <br> Tweete is a desktop application designed in JAVA that provides interface to interact with Twitter account using Twitter4j API. Presently, Tweete has three features: Update Status, Send Direct Messages and Retrieve Previous Tweets.
 
 * [**pyBuzz**](https://github.com/Akash1684/pyBuzz){:target="_blank"} : <br> A python script that sends weather forecast summary along with word of the day to mobile phone on system startup. Dependencies includes BeautifulSoup, Twilio, Urllib and Forecastio.
 
