@@ -24,5 +24,4 @@ comments: false
 National Institute of Technology Patna, <br/>
 Bihar, India - 800006.
 <br/>
-
 <script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>
