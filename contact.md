@@ -24,14 +24,5 @@ comments: false
 National Institute of Technology Patna, <br/>
 Bihar, India - 800006.
 <br/>
-<!-- Do not change the code! -->
-<a id="foxyform_embed_link_830564" href="http://www.foxyform.com/">foxyform</a>
-<script type="text/javascript">
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "http://www.foxyform.com/js.php?id=830564&sec_hash=c3da82c5dd7&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
-</script>
-<!-- Do not change the code! -->
+
+<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>
