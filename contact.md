@@ -18,10 +18,6 @@ comments: false
 * **Home**: +91-8863844272
 * **Work**: +91-9454028991
 
-### Mail Address:
-* **Current**: <br/>
-#122, Sone-A, <br/>
-National Institute of Technology Patna, <br/>
-Bihar, India - 800006.
-<br/>
+### Drop a Message:
+
 <script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>
