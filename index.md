@@ -16,7 +16,7 @@ I have a special liking towards open source development and related activity, as
 
 <!--<center><img src ="/assets/signature.jpg" /></center>-->
 <br/>
-<a class="twitter-timeline" data-lang="en" data-width="800" data-height="280" data-theme="dark" data-link-color="#9bd2f7" href="https://twitter.com/akash1684" data-chrome="noscrollbar">Tweets by akash1684</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-width="800" data-height="280" data-theme="light" data-link-color="#9bd2f7" href="https://twitter.com/akash1684" data-chrome="noscrollbar"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
