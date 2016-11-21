@@ -4,6 +4,8 @@ permalink: /projects/
 title: Major Projects
 tags: [project,code,work experience]
 modified: 14-11-16
+image:
+  feature: mountain.jpg
 comments: false
 ---
 
