@@ -13,7 +13,7 @@ A senior undergraduate in the Department of Information Technology at the <a hre
 
 I have a special liking towards open source development and related activity, as it promises to provide the opportunity to learn something new, and to contribute to my fullest capability.This is an attempt to portray myself in a very concise way.
 <!--<center><img src ="/assets/signature.jpg" /></center>-->
-
+<br/>
 <a class="twitter-timeline" data-lang="en" data-width="800" data-height="300" data-theme="light" data-link-color="#54baff" href="https://twitter.com/akash1684" data-chrome="noscrollbar"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
