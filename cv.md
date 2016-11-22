@@ -3,8 +3,6 @@ layout: cv
 permalink: /cv/
 title: Curriculum Vitae
 tags: [software,coder,developer,job]
-image:
-  feature: resume_back.jpg
 modified: 16-11-16
 comments: false
 ---
