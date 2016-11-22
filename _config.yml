@@ -44,7 +44,10 @@ highlighter: rouge
 markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
-  
+
+gems:
+  - jekyll-seo-tag
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
