@@ -3,6 +3,8 @@ layout: home2
 title: About Me
 description: "Akash Srivastava's website"
 tags: [Jekyll, theme, responsive, blog, template]
+image:
+   feature: index.jpg
 ---
 
 A senior undergraduate in the Department of Information Technology at the <a href="http://nitp.ac.in/php/home.php" target="_blank">National Institute of Technology, Patna (NIT Patna)</a> and will be joining Amazon Development Center India for Spring 17' as an Intern. 
