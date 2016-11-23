@@ -62,7 +62,7 @@ comments: false
         //Associate the styled map with the MapTypeId and set it to display.
         map.mapTypes.set('styled_map', styledMapType);
         map.setMapTypeId('styled_map');
-      }
+      
       var marker = new google.maps.Marker({
           map: map,
           draggable: true,
