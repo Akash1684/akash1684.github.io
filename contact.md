@@ -10,7 +10,8 @@ comments: false
 
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 
-<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
+<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" 
+style="max-width: 600px; text-align: center; margin: 20px auto; ">
     <h3></h3><br>
     <input type="text" name="name" size="100" placeholder="Name">
     <h3></h3><br>
