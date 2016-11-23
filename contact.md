@@ -30,9 +30,10 @@ comments: false
 
 
 <!--<h2>Current Location:</h2>   width:300px;-->
-
+<!--
 <div style="height:333px;max-width:100%;border-radius: 10px;list-style:none;transition: none;overflow:hidden;width: 48%;"><div id="embedded-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=NIT+Patna,+Ashok+Rajpath+Road,+Patna,+India&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="embedded-map-html" rel="nofollow" href="" id="make-map-information"></a><style>#embedded-map-display .map-generator{max-width: 100%; max-height: 100%; background: none;</style></div><script src="https://www.interserver-coupons.com/google-maps-authorization.js?id=ff6ff83a-7b10-0b3b-d810-b5f03ee991b4&c=embedded-map-html&u=1479154762" defer="defer" async="async"></script>
 
+-->
 
 
 
@@ -50,8 +51,7 @@ comments: false
 
 
 
-
-<div id="map" style="height:333px;max-width:100%;"></div>
+<div id="map" style="height:333px;width: 48%;border-radius: 10px;max-width:100%;"></div>
 <script>
       function initMap() {
 
