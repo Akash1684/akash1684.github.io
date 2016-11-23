@@ -23,7 +23,7 @@ comments: false
     <textarea name="message" rows="7" cols="100" placeholder="Message" style="border-radius: 10px; margin-bottom: 25px;"></textarea>
     
     
-    <input type="submit" value="Send" style="border-radius: 10px; width: 50%; color: white; background: #474545; cursor:pointer;">
+    <input type="submit" value="Send" style="border-radius: 10px; width: 100%; color: white; background: #474545; cursor:pointer;">
     
 </form>
 
