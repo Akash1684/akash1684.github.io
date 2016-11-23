@@ -11,9 +11,9 @@ comments: false
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 <center>
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
-    <input type="text" name="name" placeholder="Name" style="width: 300px;">
-    <input type="email" name="_replyto" placeholder="Email" style="width: 300px;">
-    <textarea name="message" placeholder="Message" style="width: 300px; height: 150px;"></textarea>
+    <input type="text" name="name" placeholder="Name" style="width: 300px;"><br><br>
+    <input type="email" name="_replyto" placeholder="Email" style="width: 300px;"><br><br>
+    <textarea name="message" placeholder="Message" style="width: 300px; height: 150px;"></textarea><br><br>
     <input type="submit" value="Send">
 </form>
 </center>
