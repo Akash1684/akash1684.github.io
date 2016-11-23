@@ -62,7 +62,7 @@ comments: false
 </style>
 
 <div id="map" style="height:333px;max-width:100%;"></div>
-    <script>
+<script>
       function initMap() {
 
         // Create a new StyledMapType object, passing it an array of styles,
@@ -195,10 +195,10 @@ comments: false
         map.mapTypes.set('styled_map', styledMapType);
         map.setMapTypeId('styled_map');
       }
-    </script>
-    <script async defer
+ </script>
+ <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjV7FCUvEpxgV8DJHJq21KkaxaQ1k2VFs&callback=initMap">
-    </script>
+  </script>
 
 
 
