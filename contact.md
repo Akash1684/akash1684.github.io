@@ -11,12 +11,12 @@ comments: false
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
-    <h3>Name:</h3><br>
-    <input type="text" name="name" placeholder="Name">
-    <h3>Email:</h3><br>
-    <input type="email" name="_replyto" placeholder="Email" >
-    <h3>Message:</h3><br>
-    <textarea name="message" placeholder="Message" ></textarea>
+    <h3></h3><br>
+    <input type="text" name="name" size="100" placeholder="Name">
+    <h3></h3><br>
+    <input type="email" name="_replyto" size="100" placeholder="Email" >
+    <h3></h3><br>
+    <textarea name="message" rows="7" cols="100" placeholder="Message" ></textarea>
     <h3></h3><br>
     <input type="submit" value="Send">
 </form>
