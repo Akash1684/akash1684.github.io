@@ -11,10 +11,13 @@ comments: false
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
+    <h3>Name:</h3>
     <input type="text" name="name" placeholder="Name">
+    <h3>Email:</h3>
     <input type="email" name="_replyto" placeholder="Email">
-    <textarea name="message" placeholder="Message"></textarea>
-    <input type="submit" value="Send">
+    <h3>Message</h3>
+    <textarea name="message" placeholder="Hey, I have an interesting project idea"></textarea>
+    <center><input type="submit" value="Send"></center>
 </form>
 
 <h2>Current Location:</h2>
