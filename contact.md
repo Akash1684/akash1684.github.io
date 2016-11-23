@@ -50,6 +50,7 @@ comments: false
 
         // Create a map object, and include the MapTypeId to add
         // to the map type control.
+        var marker;
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 25.6207280, lng: 85.1728860},
           zoom: 6,
@@ -63,7 +64,7 @@ comments: false
         map.mapTypes.set('styled_map', styledMapType);
         map.setMapTypeId('styled_map');
       
-      var marker = new google.maps.Marker({
+         marker = new google.maps.Marker({
           map: map,
           draggable: true,
           animation: google.maps.Animation.DROP,
