@@ -52,9 +52,16 @@ comments: false
 
 
 
+<style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      
+</style>
 
-
-<div id="map" style="height:333px;max-width:100%;></div>
+<div id="map" style="height:333px;max-width:100%;"></div>
     <script>
       function initMap() {
 
