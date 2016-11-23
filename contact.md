@@ -58,7 +58,12 @@ comments: false
                     'styled_map']
           }
         });
-       var marker = new google.maps.Marker({
+       
+        //Associate the styled map with the MapTypeId and set it to display.
+        map.mapTypes.set('styled_map', styledMapType);
+        map.setMapTypeId('styled_map');
+      }
+      var marker = new google.maps.Marker({
           map: map,
           draggable: true,
           animation: google.maps.Animation.DROP,
@@ -75,11 +80,6 @@ comments: false
         }
       }
 
-        //Associate the styled map with the MapTypeId and set it to display.
-        map.mapTypes.set('styled_map', styledMapType);
-        map.setMapTypeId('styled_map');
-       
-      }
  </script>
  <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvgTAodpfgCLcfetB0Lg230CJuNUo1ewE&callback=initMap">
