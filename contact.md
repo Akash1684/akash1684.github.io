@@ -10,7 +10,7 @@ comments: false
 
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 
-<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 400px; text-align: center; margin: 25px auto; ">
+<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 300px; text-align: center; margin: 25px auto; ">
 
     
     <input type="text" name="name" size="100" placeholder="Name" style="border-radius: 10px; margin-bottom: 25px;" > 
@@ -22,7 +22,7 @@ comments: false
     <textarea name="message" rows="7" cols="100" placeholder="Message" style="border-radius: 10px; margin-bottom: 25px;"></textarea>
     
     
-    <input type="submit" value="Send" style="border-radius: 10px; max-width: 400px; color: white; background: #474545; cursor:pointer;">
+    <input type="submit" value="Send" style="border-radius: 10px; width: 300px; color: white; background: #474545; cursor:pointer;">
     
 </form>
 
