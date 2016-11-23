@@ -38,19 +38,6 @@ comments: false
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="map" style="height:333px;width: 48%;border-radius: 10px;max-width:100%;"></div>
 <script>
       function initMap() {
@@ -64,8 +51,8 @@ comments: false
         // Create a map object, and include the MapTypeId to add
         // to the map type control.
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 55.647, lng: 37.581},
-          zoom: 11,
+          center: {lat: 25.6207280, lng: 85.1728860},
+          zoom: 6,
           mapTypeControlOptions: {
             mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
                     'styled_map']
