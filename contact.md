@@ -15,7 +15,7 @@ comments: false
     <input type="text" name="name" placeholder="Name">
     <h3>Email:</h3><br>
     <input type="email" name="_replyto" placeholder="Email" >
-    <h3>Message:<h3><br>
+    <h3>Message:</h3><br>
     <textarea name="message" placeholder="Message" ></textarea>
     <h3></h3><br>
     <input type="submit" value="Send">
