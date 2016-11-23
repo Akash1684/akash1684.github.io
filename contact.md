@@ -12,21 +12,17 @@ comments: false
 
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 400px; text-align: center; margin: 25px auto; ">
 
-    <h3></h3><br>
     
-    <input type="text" name="name" size="100" placeholder="Name" style="border-radius: 4px;   margin-bottom: 25px;" > 
+    <input type="text" name="name" size="100" placeholder="Name" style="border-radius: 10px; margin-bottom: 25px;" > 
     
-    <h3></h3><br>
     
-    <input type="email" name="_replyto" size="100" placeholder="Email" style="border-radius: 4px;   margin-bottom: 25px;" >
+    <input type="email" name="_replyto" size="100" placeholder="Email" style="border-radius: 10px; margin-bottom: 25px;" >
     
-    <h3></h3><br>
     
-    <textarea name="message" rows="7" cols="100" placeholder="Message" style="border-radius: 4px;   margin-bottom: 25px;"></textarea>
+    <textarea name="message" rows="7" cols="100" placeholder="Message" style="border-radius: 10px; margin-bottom: 25px;"></textarea>
     
-    <h3></h3><br>
     
-    <input type="submit" value="Send">
+    <input type="submit" value="Send" style="border-radius: 10px; max-width: 400px; color: white; background: #474545; cursor:pointer;">
     
 </form>
 
