@@ -10,9 +10,10 @@ comments: false
 
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
 
-<form action="https://formspree.io/akash.s1684@gmail.com">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
+    <input type="text" name="name" placeholder="Name">
+    <input type="email" name="_replyto" placeholder="Email">
+    <textarea name="message" placeholder="Message"></textarea>
     <input type="submit" value="Send">
 </form>
 
