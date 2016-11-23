@@ -9,16 +9,14 @@ comments: false
 <h4>If you have a interesting project, need help and have a question, or simply want to say hi, please do not hesitate to contact me.</h4>
 
 <!--<script type="text/javascript" src="https://form.jotform.me/jsform/63228325390454"></script>-->
-
+<center>
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST">
-    <h3>Name:</h3>
-    <input type="text" name="name" placeholder="Name">
-    <h3>Email:</h3>
-    <input type="email" name="_replyto" placeholder="Email">
-    <h3>Message</h3>
-    <textarea name="message" placeholder="Hey, I have an interesting project idea"></textarea>
-    <center><input type="submit" value="Send"></center>
+    <input type="text" name="name" placeholder="Name" style="width: 300px;">
+    <input type="email" name="_replyto" placeholder="Email" style="width: 300px;">
+    <textarea name="message" placeholder="Message" style="width: 300px; height: 150px;"></textarea>
+    <input type="submit" value="Send">
 </form>
+</center>
 
 <h2>Current Location:</h2>
 
