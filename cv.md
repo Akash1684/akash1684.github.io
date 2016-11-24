@@ -2,6 +2,7 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
+description: "Akash Srivastava's curriculum vitae "
 tags: [software,coder,developer,job]
 modified: 16-11-16
 comments: false
