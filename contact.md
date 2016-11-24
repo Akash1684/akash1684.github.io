@@ -17,10 +17,10 @@ textarea,input {
 }
 textarea:focus,input:focus {
     background-color: #f7f7f7;
-    border: 3px solid #a3a3a3;
+    border: 2px solid #a3a3a3;
 }
 input[type=submit]:hover {
-    border: 3px solid #474545;
+    border: 1.3px solid #474545;
 }
 </style>
 
@@ -50,7 +50,7 @@ input[type=submit]:hover {
         
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 25.6207280, lng: 85.1728860},
-          zoom: 8,
+          zoom: 6,
           mapTypeControlOptions: {
             mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
                     'styled_map']
