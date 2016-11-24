@@ -2,8 +2,8 @@
 layout: page
 permalink: /projects/
 title: Major Projects
-tags: [project,code,work experience]
-modified: 14-11-16
+tags: [akash srivastava's project,akash srivastava's code,akash srivastava's work experience]
+modified: 25-11-16
 comments: false
 ---
 
