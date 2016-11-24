@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: About Me
-description: "Akash Srivastava's website"
+description: "Akash Srivastava's personal homepage - all you want to know about me is right here"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
    feature: index.jpg
