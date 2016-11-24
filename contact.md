@@ -11,12 +11,13 @@ If you have an interesting project, need help and have a question, or simply wan
 </h4>
 
 <style>
-input {
+textarea,input {
  border-radius: 10px;
  margin-bottom: 25px;
 }
-input:focus {
-    background-color: #efefef;
+textarea,input:focus {
+    background-color: #f7f7f7;
+    border: 3px solid #a3a3a3;
 }
 </style>
 
