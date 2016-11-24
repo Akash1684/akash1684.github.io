@@ -15,9 +15,12 @@ textarea,input {
  border-radius: 10px;
  margin-bottom: 25px;
 }
-textarea,input:focus {
+textarea:focus,input:focus {
     background-color: #f7f7f7;
     border: 3px solid #a3a3a3;
+}
+input[type=submit]:hover {
+    border: 3px solid #474545;
 }
 </style>
 
