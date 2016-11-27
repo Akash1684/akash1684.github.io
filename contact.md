@@ -13,12 +13,12 @@ If you have an interesting project, need help and have a question, or simply wan
 <style>
 textarea,input {
  border: none;
- border-bottom: 2px;
+ border-bottom: 2px solid #a3a3a3;
  margin-bottom: 25px;
 }
 textarea:focus,input:focus {
     background-color: #f2f2f2;
-    border: 2px solid #a3a3a3;
+    border: 2px solid #191919;
 }
 input[type=submit]:hover {
     border: 1.3px solid #474545;
