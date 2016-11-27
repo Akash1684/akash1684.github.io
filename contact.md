@@ -17,8 +17,9 @@ textarea,input {
  margin-bottom: 25px;
 }
 textarea:focus,input:focus {
-    background-color: #f2f2f2;
-    border: 2px solid #191919;
+    border: none;
+    border-bottom: 2px solid #a3a3a3;
+    margin-bottom: 25px;
 }
 input[type=submit]:hover {
     border: 1.3px solid #474545;
@@ -28,9 +29,9 @@ input[type=submit]:hover {
 <form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 300px; float: left;
   width: 50%; margin-right: 2%; ">
     
-    <input type="text" name="name" size="100" placeholder="Name" >     
-    <input type="email" name="_replyto" size="100" placeholder="Email"  >
-    <textarea name="message" rows="7" cols="100" placeholder="Message"></textarea>
+    <input type="text" name="name" size="100" placeholder="Your Name" >     
+    <input type="email" name="_replyto" size="100" placeholder="Email Address"  >
+    <textarea name="message" rows="7" cols="100" placeholder="Your message here and I'll answer as soon as possible"></textarea>
     <input type="submit" value="Send" style="border-radius: 10px; width: 100%; color: white; background: #474545; cursor:pointer;">
     
 </form>
