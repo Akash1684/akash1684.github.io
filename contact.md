@@ -16,9 +16,12 @@ textarea,input {
  border-bottom: 2px solid #a3a3a3;
  margin-bottom: 25px;
 }
+textarea{
+ resize: none;
+}
 textarea:focus,input:focus {
     border: none;
-    border-bottom: 2px solid #a3a3a3;
+    border-bottom: 2px solid #191919;
     margin-bottom: 25px;
 }
 input[type=submit]:hover {
