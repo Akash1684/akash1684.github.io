@@ -25,6 +25,7 @@ textarea{
  resize: none;
  float: right;
  width: 48%;
+ height: 126px;
 }
 textarea:focus,input:focus {
     border: none;
@@ -32,7 +33,7 @@ textarea:focus,input:focus {
     margin-bottom: 25px;
 }
 input[type=submit]:hover {
-    border: 1.3px solid #474545;
+    border: 0.3px solid #474545;
 }
 </style>
 
@@ -40,7 +41,7 @@ input[type=submit]:hover {
     
     <input type="text" name="name" size="100" placeholder="Your Name" >     
     <input type="email" name="_replyto" size="100" placeholder="Email Address"  >
-    <textarea name="message" rows="2" cols="100" placeholder="Your message here and I'll answer as soon as possible"></textarea>
+    <textarea name="message"  cols="100" placeholder="Your message here and I'll answer as soon as possible"></textarea>
     <input type="submit" value="Send" style="border-radius: 10px; width: 100%; color: white; background: #474545; cursor:pointer;">
     
 </form>
