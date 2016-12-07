@@ -11,13 +11,20 @@ If you have an interesting project, need help and have a question, or simply wan
 </h4>
 
 <style>
-textarea,input {
+input {
  border: none;
  border-bottom: 2px solid #a3a3a3;
  margin-bottom: 25px;
+ width: 50%;
+ margin-right: 2%;
 }
 textarea{
+ border: none;
+ border-bottom: 2px solid #a3a3a3;
+ margin-bottom: 25px;
  resize: none;
+ float: right;
+ width: 48%;
 }
 textarea:focus,input:focus {
     border: none;
@@ -29,8 +36,7 @@ input[type=submit]:hover {
 }
 </style>
 
-<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 300px; float: left;
-  width: 50%; margin-right: 2%; ">
+<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 300px; width: 100%;  ">
     
     <input type="text" name="name" size="100" placeholder="Your Name" >     
     <input type="email" name="_replyto" size="100" placeholder="Email Address"  >
