@@ -33,7 +33,7 @@ textarea:focus,input:focus {
     margin-bottom: 25px;
 }
 input[type=submit]:hover {
-    border: 0.3px solid #474545;
+    border: 0.1px solid #474545;
 }
 </style>
 
@@ -41,12 +41,12 @@ input[type=submit]:hover {
     
     <input type="text" name="name" size="100" placeholder="Your Name" >     
     <input type="email" name="_replyto" size="100" placeholder="Email Address"  >
-    <textarea name="message"  cols="100" placeholder="Your message here and I'll answer as soon as possible"></textarea>
+    <textarea name="message" placeholder="Your message here and I'll answer as soon as possible"></textarea>
     <input type="submit" value="Send" style="border-radius: 10px; width: 100%; color: white; background: #474545; cursor:pointer;">
     
 </form>
 
-<div id="map" style="height:222px;width: 100%;border-radius: 10px;max-width:100%;"></div>
+<div id="map" style="height:200px;width: 100%;border-radius: 10px;max-width:100%;"></div>
 <script>
       var marker;
       function initMap() {
