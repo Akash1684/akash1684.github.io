@@ -25,7 +25,7 @@ textarea{
  margin-bottom: 25px;
  resize: none;
  width: 49%;
- height: 95px;
+ height: 91px;
 }
 textarea:focus,input:focus {
     border: none;
@@ -43,7 +43,7 @@ textarea:focus,input:focus {
     
 </form>
 
-<div id="map" style="height:200px;width: 100%;border-radius: 10px;max-width:100%;"></div>
+<div id="map" style="height:196px;width: 100%;border-radius: 10px;max-width:100%;"></div>
 <script>
       var marker;
       function initMap() {
