@@ -17,7 +17,7 @@ input {
  margin-bottom: 25px;
  width: 50%;
  margin-right: 2%;
- float: right;
+ float: left;
 }
 textarea{
  border: none;
@@ -25,7 +25,7 @@ textarea{
  margin-bottom: 25px;
  resize: none;
  width: 48%;
- height: 126px;
+ height: 110px;
 }
 textarea:focus,input:focus {
     border: none;
