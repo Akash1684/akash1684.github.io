@@ -17,13 +17,13 @@ input {
  margin-bottom: 25px;
  width: 50%;
  margin-right: 2%;
+ float: right;
 }
 textarea{
  border: none;
  border-bottom: 2px solid #a3a3a3;
  margin-bottom: 25px;
  resize: none;
- float: right;
  width: 48%;
  height: 126px;
 }
@@ -33,7 +33,7 @@ textarea:focus,input:focus {
     margin-bottom: 25px;
 }
 input[type=submit]:hover {
-    border: 0.1px solid #474545;
+    border:  solid #474545;
 }
 </style>
 
