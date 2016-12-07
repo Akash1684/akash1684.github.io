@@ -25,7 +25,7 @@ textarea{
  margin-bottom: 25px;
  resize: none;
  width: 48%;
- height: 110px;
+ height: 100px;
 }
 textarea:focus,input:focus {
     border: none;
@@ -62,7 +62,7 @@ input[type=submit]:hover {
         
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 25.6207280, lng: 85.1728860},
-          zoom: 6,
+          zoom: 5,
           mapTypeControlOptions: {
             mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
                     'styled_map']
