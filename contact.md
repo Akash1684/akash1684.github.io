@@ -11,39 +11,30 @@ If you have an interesting project, need help and have a question, or simply wan
 </h4>
 
 <style>
-input {
- border: none;
- border-bottom: 2px solid #a3a3a3;
+textarea,input {
+ border-radius: 10px;
  margin-bottom: 25px;
- width: 49%;
- margin-right: 2%;
- float: left;
-}
-textarea{
- border: none;
- border-bottom: 2px solid #a3a3a3;
- margin-bottom: 25px;
- resize: none;
- width: 49%;
- height: 91px;
 }
 textarea:focus,input:focus {
-    border: none;
-    border-bottom: 2px solid #191919;
-    margin-bottom: 25px;
+    background-color: #f7f7f7;
+    border: 2px solid #a3a3a3;
+}
+input[type=submit]:hover {
+    border: 1.3px solid #474545;
 }
 </style>
 
-<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 100%; width: 100%;  ">
+<form id="contactform" action="//formspree.io/akash.s1684@gmail.com" method="POST" style="max-width: 300px; float: left;
+  width: 50%; margin-right: 2%; ">
     
-    <input type="text" name="name" size="100" placeholder="Your Name" >     
-    <input type="email" name="_replyto" size="100" placeholder="Email Address"  >
-    <textarea name="message" placeholder="Your message here and I'll answer as soon as possible"></textarea>
+    <input type="text" name="name" size="100" placeholder="Name" >     
+    <input type="email" name="_replyto" size="100" placeholder="Email"  >
+    <textarea name="message" rows="7" cols="100" placeholder="Message"></textarea>
     <input type="submit" value="Send" style="border-radius: 10px; width: 100%; color: white; background: #474545; cursor:pointer;">
     
 </form>
 
-<div id="map" style="height:196px;width: 100%;border-radius: 10px;max-width:100%;"></div>
+<div id="map" style="height:333px;width: 48%;border-radius: 10px;max-width:100%;"></div>
 <script>
       var marker;
       function initMap() {
@@ -59,7 +50,7 @@ textarea:focus,input:focus {
         
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 25.6207280, lng: 85.1728860},
-          zoom: 5,
+          zoom: 6,
           mapTypeControlOptions: {
             mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
                     'styled_map']
@@ -91,14 +82,3 @@ textarea:focus,input:focus {
  <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvgTAodpfgCLcfetB0Lg230CJuNUo1ewE&callback=initMap">
   </script>
-
-
-
-
-
-
-
-
-
-
-
