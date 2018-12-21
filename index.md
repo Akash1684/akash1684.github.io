@@ -7,7 +7,7 @@ image:
    feature: index.jpg
 ---
 
-A senior undergraduate in the Department of Information Technology at the <a href="http://nitp.ac.in/php/home.php" target="_blank">National Institute of Technology, Patna (NIT Patna)</a> and presently working as Software Developement Engineer Intern at Amazon Development Center Hyderabad, India. 
+A graduate from the Department of Information Technology at the <a href="http://nitp.ac.in/php/home.php" target="_blank">National Institute of Technology, Patna (NIT Patna)</a> and presently working as **Software Development Engineer - II at Amazon India**, where my work primarily focuses on enabling VAT Services for sellers all across Europe. 
 
 <br/>
 
