@@ -49,7 +49,7 @@ input[type=submit]:hover {
         // to the map type control.
         
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 25.6207280, lng: 85.1728860},
+          center: {lat: 17.385044, lng: 78.486671},
           zoom: 6,
           mapTypeControlOptions: {
             mapTypeIds: ['roadmap', 'satellite', 'hybrid', 'terrain',
