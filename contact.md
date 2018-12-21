@@ -65,7 +65,7 @@ input[type=submit]:hover {
           map: map,
           draggable: true,
           animation: google.maps.Animation.DROP,
-          position: {lat: 25.6207280, lng: 85.1728860}
+          position: {lat: 17.385044, lng: 78.486671}
         });
         marker.addListener('click', toggleBounce);
       }
