@@ -8,7 +8,9 @@ modified: 16-11-16
 comments: false
 ---
 
-Download PDF from [akash_cv.pdf](/assets/akash_cv.pdf){:target="_blank"}
+For latest info: [link](https://www.linkedin.com/in/akash1684)
+<!--Download PDF from [akash_cv.pdf](/assets/akash_cv.pdf){:target="_blank"} -->
+
 
 <!--![page1](/assets/page1.jpg)
 ![page2](/assets/page2.jpg)-->
