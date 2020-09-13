@@ -10,7 +10,7 @@ disqus_shortname: akash1684-github-io
 owner:
   name:           Akash Srivastava
   avatar:         AirBrush_20190608151304 Cropped.jpg
-  bio:            I hail from a small town in Uttar Pradesh, India. Passionate about parallel computing, competitive programming, and football(Barça Fan).
+  bio:            I hail from a small town in Uttar Pradesh, India. Passionate about building scalable and sustainable software solutions, competitive programming, and football(Barça Fan).
   email:          akash.s1684@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   phone:          09454028991
@@ -30,6 +30,8 @@ bing_verify:
 links:
   - title: CV
     url: /cv/
+  - title: Blogs
+    url: /blog/
   - title: Research
     url: /research/
   - title: Projects
