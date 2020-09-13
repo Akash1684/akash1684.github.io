@@ -2,7 +2,7 @@
 layout: home2
 title: Software Engineer and Researcher
 description: "Akash Srivastava's personal homepage - all you want to know about me is right here"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Jekyll, theme, responsive, blog, template, amazon, sde]
 image:
    feature: index.jpg
 ---
