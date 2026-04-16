@@ -1,57 +1,37 @@
 title:            Akash Srivastava
-description:      Passionate and Determined Coder. Welcome to my homepage!
-# Your site's domain goes here. Leave localhost server or blank when working locally.
+description:      Engineering Lead · Conversational AI · Speech Systems · Distributed Infrastructure
 url:              https://akash1684.github.io
-#http://localhost:5000
-#https://akash1684.github.io
-disqus_shortname: akash1684-github-io
 
 # Owner/author information
 owner:
   name:           Akash Srivastava
   avatar:         AirBrush_20190608151304 Cropped.jpg
-  bio:            I hail from a small town in Uttar Pradesh, India. Passionate about building scalable and sustainable software solutions, competitive programming, and football(Barça Fan).
+  bio:            Engineering leader specializing in real-time AI systems and large-scale distributed infrastructure. At AWS, leading the org building speech-to-speech and LLM inference platforms powering Amazon Connect.
   email:          akash.s1684@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  phone:          09454028991
-  twitter: akash1684
-  linkedin: akash1684
-  #google_scholar: VCBBx24AAAAJ
-  #google_plus: 113718226018314522413
-  github: akash1684
-# Analytics and webmaster tools stuff goes here
+  phone:          +1-206-785-5977
+  location:       Seattle, WA
+  linkedin:       akash1684
+  github:         akash1684
+
+# Analytics
 google_analytics: UA-52736040-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Links to include in top navigation
-# For external links add external: true
 links:
   - title: CV
     url: /cv/
-  - title: Blogs
-    url: /blog/
-  - title: Research
-    url: /research/
-  - title: Projects
-    url: /projects/
   - title: Contact
     url: /contact/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Kolkata
+# Site settings
+timezone:    America/Los_Angeles
 future:      true
-#pygments:    true
 highlighter: rouge
 markdown:    kramdown
-kramdown:
-  extensions: ["strikethrough"]
 
-gems:
+plugins:
   - jekyll-seo-tag
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
 kramdown:
@@ -60,13 +40,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

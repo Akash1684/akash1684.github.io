@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-sitemap'
+gem 'jekyll', '~> 4.3'
 gem 'jekyll-seo-tag'
-gem 'octopress', '~> 3.0.0.rc.12'
 gem 'rouge'
+gem 'webrick'
+gem 'kramdown-parser-gfm'
