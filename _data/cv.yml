@@ -1,0 +1,86 @@
+cv:
+  name: Akash Srivastava
+  label: Senior Engineer / Tech Lead · Distributed Systems · Cloud Infrastructure
+  email: akash.s1684@gmail.com
+  location: Seattle, WA
+  image: ""
+  summary: >
+    Senior Engineer / Tech Lead with 10 years of experience specializing in AI infrastructure,
+    distributed systems, and real-time platform engineering. Sets technical direction and drives
+    architecture and delivery of AWS real-time voice and ML inference platforms, leading large
+    cross-functional initiatives across team boundaries. Extensive experience building low-latency,
+    highly available services at global scale, including multi-region systems supporting 100k+
+    concurrent users and demanding production workloads.
+
+  social_networks:
+    - network: LinkedIn
+      username: akash1684
+    - network: GitHub
+      username: akash1684
+
+  sections:
+    Experience:
+      - company: Amazon Web Services (AWS)
+        position: Senior Software Development Engineer / Technical Lead
+        location: Seattle, WA
+        start_date: 2021-11-01
+        end_date: present
+        summary: ""
+        highlights:
+          - Technical lead in the real-time Voice and ML inference domain; set technical direction, led architecture reviews, defined long-term platform vision, and balanced iterative delivery against immediate business results.
+          - Architected and operated a globally distributed real-time inference platform supporting 100k+ concurrent users, owning service architecture, scaling strategy, fault tolerance, deployment automation, and latency optimization across multiple AWS services.
+          - Re-architected legacy real-time streaming services, establishing the core streaming infrastructure underpinning a large-scale omni-channel contact center platform with 99.9%+ availability.
+          - Designed and implemented a multi-region inference platform integrating external TTS providers with automated failover, traffic routing, observability, and latency-aware request handling, achieving 99.99% availability.
+          - Designed a GPU benchmarking framework across multiple instance types to evaluate performance/cost tradeoffs for TTS inference workloads; analysis directly informed infrastructure selection and reduced serving costs for the production stack.
+          - Architected a distributed video transcoding pipeline — segment-based ingestion, per-contact demuxing, audio/video muxing and re-encoding into compressed MPEG-4, with KMS-encrypted delivery to customer S3 at scale.
+          - Built a reproducible SageMaker-based ML training pipeline, replacing manual workflows and reducing model iteration time by 85% while improving experiment tracking and reproducibility.
+          - Drove noise suppression and speech quality improvements across telephony and WebRTC deployments, improving average DNS-MOS score by 20%.
+          - Hiring Bar Raiser passionate about mentoring and hiring; conducted 300+ interviews and influenced hiring decisions across multiple teams and roles.
+
+      - company: Amazon — Marketplace & Seller Platform
+        position: Software Development Engineer I → II → III
+        location: Hyderabad, India
+        start_date: 2017-01-01
+        end_date: 2021-11-01
+        summary: ""
+        highlights:
+          - Progressed from SDE-I to SDE-III building large-scale seller productivity and growth systems on Amazon's service-oriented architecture, including the Seller VAT Calculation Services Engine processing 250M+ monthly events across 300k+ sellers globally.
+          - Owned end-to-end design, scaling, and delivery of high-throughput seller workflows; drove cross-team technical leadership and mentored engineers through significant org growth.
+          - Led architecture reviews and long-term re-architecture initiatives to evolve extendable, globally scalable services, reducing operational toil and improving system resilience across Amazon Marketplace.
+
+    Skills:
+      - name: Systems
+        icon: fa-solid fa-network-wired
+        keywords: "Distributed systems, Kubernetes/EKS, real-time streaming, event-driven architecture, domain-driven design, low-latency systems, WebSocket, HTTP/2 streaming, gRPC, REST, WebRTC"
+      - name: AI / ML
+        icon: fa-solid fa-brain
+        keywords: "LLM inference, ASR, Text-to-Speech (TTS), Speech-to-Speech (S2S), ML model serving, inference optimization, GPU benchmarking, FFmpeg, video/audio transcoding, SageMaker pipelines, noise suppression"
+      - name: Cloud / Infra
+        icon: fa-solid fa-cloud
+        keywords: "AWS (Kinesis, ECS, Redis, SageMaker, Elasticsearch, Docker, DynamoDB), multi-region fault-tolerant deployments"
+      - name: Languages / Data
+        icon: fa-solid fa-code
+        keywords: "Java, C++, Python, relational databases, NoSQL, real-time analytics pipelines"
+
+    Publications:
+      - title: A Deadlock-Free Lock-Based Synchronization for GPUs
+        authors:
+          - Anand
+          - A. Srivastava
+          - Shyamasundar
+        publisher: "Concurrency and Computation: Practice and Experience, Wiley"
+        releaseDate: 2018-01-01
+        summary: A lock-based synchronization primitive for GPU architectures that is provably free of deadlock.
+
+      - title: Performance Comparison of Various Particle Swarm Optimizers in DWT-SVD Watermarking for RGB Images
+        authors:
+          - A. Srivastava
+        publisher: ACM ICCCT
+        releaseDate: 2015-01-01
+        summary: A comparative study of PSO variants applied to optimize DWT-SVD image watermarking, improving watermark fitness by 22% over the conventional scheme.
+
+    Education:
+      - institution: National Institute of Technology (NIT), Patna
+        area: Computer Science
+        studyType: Bachelor of Technology
+        end_date: ""
